@@ -1,2 +1,0 @@
-# ImagePick
- syedbilalali
